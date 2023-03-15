@@ -8,7 +8,7 @@ In this lab we'll familiarize you with one sample hypothesis tests. You will als
 
 ## Deliverables
 
-- `main.ipynb`.
+- `hypothesis.ipynb`.
 
 ## Submission
 
